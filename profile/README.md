@@ -18,6 +18,6 @@ Nos apasiona la tecnología, pero sobre todo las personas que la hacen posible. 
 
 ## 📭 Contacto
 
-Si tienes alguna pregunta o simplemente quieres decirnos hola, no dudes en contactarnos por [correo electrónico](info@plexus.es) o a través de [nuestra página web](https://www.plexus.es/). ¡Nos encantaría saber de ti!
+Si tienes alguna pregunta o simplemente quieres decirnos hola, no dudes en contactarnos por [correo electrónico](mailto:info@plexus.es) o a través de [nuestra página web](https://www.plexus.es/). ¡Nos encantaría saber de ti!
 
 ¡Gracias por visitarnos! ¡Esperamos poder trabajar pronto contigo!
