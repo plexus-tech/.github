@@ -14,7 +14,7 @@ Entre nuestros principales clientes destacan la práctica totalidad de las empre
 
 Nos apasiona la tecnología, pero sobre todo las personas que la hacen posible. Necesitamos tu talento para seguir creciendo. Proyectos nacionales e internacionales trabajando con las últimas tecnologías y profesionales de referencia en el sector. ¡Nos encantaría que formases parte de nuestro equipo!
 
-**¡Haz click en este [enlace](https://www.linkedin.com/company/plexus-tech/jobs/) para ver las ofertas laborales que tenemos disponibles!**
+**¡Haz click en este [enlace](https://www.plexus.es/unete-al-equipo/) para ver las ofertas laborales que tenemos disponibles!**
 
 ## 📭 Contacto
 
